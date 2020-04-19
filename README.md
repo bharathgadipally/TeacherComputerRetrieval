@@ -25,11 +25,11 @@ Since we have the list academies and their routes directed specifically, a Direc
  ### Recursive Methods
   To generate cyclic paths, get all paths from source to its neighbours and from each neighbour back to the source vertex. Now concatenate or map all these route combinations until the limit path weight specified.
 
-## Data
 
 ## Running the tests
 1. Download or clone the repository
 2. Open the Solution in Visual Studio. Open with sln file.
 3. Build the Solution.
 4. Under the TeacherComputerRetrieval.Tests project, Run all the test methods.
-5. AcademyTests.cs has all the written test methods for the given problem. Used Tuple latest c# version 7.0
+5. AcademyTests.cs has all the written test methods for the given problem. 
+   (Note: Used Tuple latest c# version 7.0 syntax)
