@@ -1,4 +1,4 @@
-# TeacherComputerRetrieval
+# Teacher Computer Retrieval
 The IT team is responsible for retrieving teacher computers that are broken and returning them to HQ for repair and replacement. The teaching academies are connected with routes (one-way and two-way) between them. The purpose of this program is to provide information about possible routes between nodes like
 
 1. The distance along certain routes.
