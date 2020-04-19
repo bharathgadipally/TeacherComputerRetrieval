@@ -5,6 +5,9 @@ The IT team is responsible for retrieving teacher computers that are broken and 
 2. The number of different routes between two academies.
 3. The shortest route between two academies.
 
+### Problem link Here
+ https://proenv-copy.s3-ap-southeast-1.amazonaws.com/uploads/1581742710547NET_Technical_Test.pdf
+
 Since we have the list academies and their routes directed specifically, a Directed Wegihted Graph Data structure would suite to solve this problem.
 
  ### The Directed Weighted Graph Data Structure.
