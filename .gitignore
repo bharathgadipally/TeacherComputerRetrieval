@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TeacherComputerRetrieval.Tests/obj/Debug
+/TeacherComputerRetrieval.Tests/bin/Debug
+/TeacherComputerRetrieval/obj/Debug
+/TeacherComputerRetrieval/bin/Debug
+/packages
+/.vs/TeacherComputerRetrieval/v15

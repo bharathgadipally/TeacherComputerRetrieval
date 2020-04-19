@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherComputerRetrieval", "TeacherComputerRetrieval\TeacherComputerRetrieval.csproj", "{86829CF1-F632-4009-B3CE-537D2059387E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherComputerRetrieval.Tests", "TeacherComputerRetrieval.Tests\TeacherComputerRetrieval.Tests.csproj", "{37A34D49-4817-4593-AE6B-8AC7136D2B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86829CF1-F632-4009-B3CE-537D2059387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86829CF1-F632-4009-B3CE-537D2059387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86829CF1-F632-4009-B3CE-537D2059387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86829CF1-F632-4009-B3CE-537D2059387E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A34D49-4817-4593-AE6B-8AC7136D2B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A34D49-4817-4593-AE6B-8AC7136D2B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A34D49-4817-4593-AE6B-8AC7136D2B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A34D49-4817-4593-AE6B-8AC7136D2B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DDE7A3D-C0EE-446C-93E0-C9FCD4DAB20D}
+	EndGlobalSection
+EndGlobal
