@@ -5,7 +5,7 @@ using System.Linq;
 namespace TeacherComputerRetrieval.Tests
 {
     [TestClass]
-    public class GraphsDirectedWeightedGraphTest
+    public class DirectedWeightedGraphTest
     {
         DirectedWeightedGraph<string> _graph;
 
