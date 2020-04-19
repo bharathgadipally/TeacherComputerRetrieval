@@ -29,4 +29,4 @@ Since we have the list academies and their routes directed specifically, a Direc
 2. Open the Solution in Visual Studio. Open with sln file.
 3. Build the Solution.
 4. Under the TeacherComputerRetrieval.Tests project, Run all the test methods.
-5. AcademyTests.cs has all the written test methods for the given problem
+5. AcademyTests.cs has all the written test methods for the given problem. Used Tuple latest c# version 7.0
